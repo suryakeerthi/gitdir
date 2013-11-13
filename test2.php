@@ -1,6 +1,5 @@
-<?php echo "hello keerthi dgdfgdf
+<?php echo "hello keerthi hhhhhh
 <<<<<<< HEAD
 dfgdfgffffffffffff";
 hhhhhhhhhhhjjjjjjjjjjjjjj?>
-dfgdfgffffffffffff bbbbbbbbb";?>
 
