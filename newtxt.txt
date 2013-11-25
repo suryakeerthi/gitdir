@@ -2,5 +2,10 @@ Iam new to GIT
 adding new line
 second line bbbb
 added at12.32pm
+<<<<<<< HEAD
 added at12.38pm
 
+=======
+added at 12.37pm
+added at 12.52pm
+>>>>>>> 851bf0016988873b5db5de9d67fc275017d7a098
